@@ -19,4 +19,4 @@ The aim of this project is to analyze data on agricultural incidents in Australi
 9. **gnews_api.py**
    Python script demonstrating how to use web scraping to gather information.
 10. **Comparative Analysis of WHS Regulatory: Insights from Australia and United Kingdom**: A report that describes the findings from analyzing and visualizing data from Australian and UK regulators.
-11. **Report 2:** A report that describes the findings from analyzing and visualizing data from Australian and New Zealand news alerts.
+11. **Agricultural Incidents in Australia and New Zealand_ A Data-Driven Analysis of Trends, Risks, and Safety Measures.pdf** A report that describes the findings from analyzing and visualizing data from Australian and New Zealand news alerts.
