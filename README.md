@@ -11,7 +11,7 @@ The aim of this project is to analyze data on agricultural incidents in Australi
 4. **PowerBI_IDashboard_Document.pdf**
    PDF version of the Power BI dashboard.
 6. **PowerBI_Internship_Final.pbix**
-   Power BI file for viewing the dashboard using the Power BI Desktop app.
+   Power BI file for viewing the dashboard using the Power BI Desktop app(Only open with desktop app). Should be interactive.
 7. **Research Findings.pdf**
     A PowerPoint presentation summarizing the preliminary research conducted before data analysis and visualization.
 8. **Research Raw Data.xlsx**
