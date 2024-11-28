@@ -18,3 +18,5 @@ The aim of this project is to analyze data on agricultural incidents in Australi
    A comprehensive dataset containing all the raw data used in the project, offering more detail than the Power BI dataset.
 9. **gnews_api.py**
    Python script demonstrating how to use web scraping to gather information.
+10. **Report 1:**
+11. **Report 2:**
